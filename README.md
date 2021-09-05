@@ -18,3 +18,7 @@ Additionally, certain trigger words said by user will receive an encouraging rep
 
 ![image](https://user-images.githubusercontent.com/85172362/132136026-c31fce24-ad0d-4ad1-ac64-5e75a7acc1db.png)
 
+**SunnyBuddy** is intended to bring positivity and inspiration into a Discord server. Originally, I created this bot for myself, seeking optimism in stressful times. 
+
+**NOTE**
+*The quotes, jokes, and encouraging statements in this application do not belong to me. I have listed the sources directly in main.py, as well as the profile picture for the bot.*
