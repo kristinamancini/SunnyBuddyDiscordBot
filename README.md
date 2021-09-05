@@ -22,3 +22,6 @@ Additionally, certain trigger words said by user will receive an encouraging rep
 
 **NOTE**: 
 *The quotes, jokes, and encouraging statements in this application do not belong to me. I have listed the sources directly in main.py, as well as the profile picture for the bot.*
+
+Code reference source: https://www.freecodecamp.org/news/create-a-discord-bot-with-python/ 
+ 
