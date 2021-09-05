@@ -3,7 +3,7 @@ SunnyBuddy
 This is a simple discord bot that replies to commands made by the user.
 Image source URL: https://flyclipart.com/sun-cartoon-free-download-clip-art-sun-cartoon-png-374817
 
-Author: kmmip
+Author: Kristina Mancini
 
 """
 
