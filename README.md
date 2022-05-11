@@ -2,9 +2,9 @@
 
 **SunnyBuddy** is a simple positivity bot, providing encouraging statements and inspirational quotes (and even jokes) to your server.
 
-This bot has several commands:
+## Commands
 
-![image](https://user-images.githubusercontent.com/85172362/132135835-250db1fa-034d-47ea-93fb-42dd81b40790.png)
+![commands](https://user-images.githubusercontent.com/85172362/167752800-45fa397b-ecdf-4fb5-9d03-bcdabc47d26f.png)
 
 The user can use **$** in front of the listed command to receive a response from the bot. 
 
